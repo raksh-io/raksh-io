@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakshat Jogin,Aspiring Software Engineer | AI/ML & Full-Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Rakshat Jogin</h1>
 <h3 align="center">Integrated MCA Student | Python | Java | React.js | Node.js | Machine Learning | Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raksh-io&label=Profile%20views&color=0e75b6&style=flat" alt="raksh-io" /> </p>
